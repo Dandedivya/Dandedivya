@@ -76,11 +76,11 @@ Performed stock market data analysis using Python and visualizations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dandedivya&show_icons=true&theme=radical&hide_border=true" alt="Divya GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dandedivya&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandedivya&layout=compact&theme=radical&hide_border=true" alt="Divya Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dandedivya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
