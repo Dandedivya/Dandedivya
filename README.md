@@ -60,6 +60,22 @@ Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
 ## 📂 Featured Projects
 
+### 🛒 Amazon Product Sales Analysis
+
+Performed exploratory data analysis on Amazon product sales data to identify purchase patterns, product trends, and factors associated with higher purchase activity using Python, Pandas, and NumPy.
+
+🔗 [View Project](https://github.com/Dandedivya/amazon-product-sales-analysis)
+
+---
+
+### 👥 HR Analytics Dashboard
+
+Developed an interactive HR analytics dashboard using Tableau to analyze employee attrition and workforce trends across departments, job roles, gender, education, age groups, and salary slabs.
+
+🔗 [View Project](https://github.com/Dandedivya/HR-Analytics-Dashboard)
+
+---
+
 ### 🥗 Healthy Diet Analysis
 Exploratory Data Analysis of nutrition, calorie intake, BMI, and lifestyle patterns using Python.
 
