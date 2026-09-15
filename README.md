@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Divya Dande</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Python | SQL | Tableau | Power BI | Excel
+Data Analyst | Python | SQL | Power BI | Tableau | Excel
 </h3>
 
 <p align="center">
