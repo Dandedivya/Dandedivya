@@ -76,17 +76,17 @@ Developed an interactive HR analytics dashboard using Tableau to analyze employe
 
 ---
 
-### 🥗 Healthy Diet Analysis
-Exploratory Data Analysis of nutrition, calorie intake, BMI, and lifestyle patterns using Python.
-
-🔗 [View Project](https://github.com/Dandedivya/Healthy-Diet-Analysis)
-
----
-
 ### 🎬 SQL Queries on IMDb
 SQL practice project covering filtering, joins, aggregations, and analysis queries.
 
 🔗 [View Project](https://github.com/Dandedivya/SQL-Queries-on-IMDB)
+
+---
+
+### 🥗 Healthy Diet Analysis
+Exploratory Data Analysis of nutrition, calorie intake, BMI, and lifestyle patterns using Python.
+
+🔗 [View Project](https://github.com/Dandedivya/Healthy-Diet-Analysis)
 
 ---
 
