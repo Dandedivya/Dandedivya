@@ -16,13 +16,13 @@ Aspiring Data Analyst | Python | SQL | Tableau | Power BI | Excel
 
 ## 👩‍💻 About Me
 
-- 🎯 Aspiring Data Analyst passionate about solving real-world business problems using data  
-- 📊 Skilled in Python, SQL, Tableau, Power BI, Excel, and Data Visualization  
-- 🧠 Currently improving my skills in Machine Learning and advanced analytics  
-- 📁 Building portfolio projects using real-world datasets  
-- 📍 Andhra Pradesh, India  
-- 📫 Mail me: **dandedivya1@gmail.com**
-
+- 🎯 Data Analyst with a Software Engineering background and 2.4+ years of professional experience.
+- 📊 Hands-on experience with Python, SQL, Pandas, NumPy, Power BI, Tableau, Excel, and Exploratory Data Analysis.
+- 🔍 Experienced in analyzing datasets, identifying patterns, creating visualizations, and deriving insights through personal analytics projects.
+- 💻 Professional background in Java, Spring Boot, REST APIs, SQL, and MySQL.
+- 📁 Building data analytics projects using real-world datasets to strengthen practical analytical skills.
+- 📍 Andhra Pradesh, India
+- 📫 Mail me: dandedivya1@gmail.com
 ---
 
 ## 🛠️ Tech Stack
